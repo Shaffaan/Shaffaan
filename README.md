@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaffaan Bin Aamir</h1>
-<h3 align="center">A passionate Computer Science Student at the University of Toronto. I enjoy front end development and have started to transition into learning backend development. I am also really interested in Machine Learning and how we can use it to improve our lives.</h3>
+<h3 align="center">Welcome to my page. I am A passionate Computer Science Student at the University of Toronto. I enjoy front end development and have started to transition into learning backend development. I am also really interested in Machine Learning and how we can use it to improve our lives.</h3>
 
 - 🔭 I’m currently working on **creating a personal website**
 
