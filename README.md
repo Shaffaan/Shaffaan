@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaffaan Bin Aamir</h1>
 <h3 align="center">Welcome to my page. I am A passionate Computer Science Student at the University of Toronto. I enjoy front end development and have started to transition into learning backend development. I am also really interested in Machine Learning and how we can use it to improve our lives.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/AzdineElJattari/beaef920a209a60bab82a8a1d01e5d54/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 - 🔭 I’m currently working on **creating a personal website**
 
