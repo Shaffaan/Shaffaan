@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **creating a personal website**
 
-- 🌱 Currently learning **Vanilla JS and React JS**
+- 🌱 Currently learning **Advanced JS topics and React JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
