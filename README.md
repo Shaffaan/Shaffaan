@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaffaan Bin Aamir</h1>
-<h3 align="center">Welcome to my page! I am a passionate Computer Science student at the University of Toronto. Currently, I am working as a Distributed Systems Engineer Intern at Huawei Canada. I enjoy working on software development at both the application level and on infrastructure level</h3>
+<h3 align="center">Welcome to my page! I am a passionate Computer Science student at the University of Toronto. Currently, I am working as a Distributed Systems Engineer Intern at Huawei Canada. I enjoy building scalable applications and working on both application-level and infrastructure-level software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/AzdineElJattari/beaef920a209a60bab82a8a1d01e5d54/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 <h3 align="left">Connect with me:</h3>
